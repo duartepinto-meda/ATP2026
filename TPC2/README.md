@@ -8,3 +8,7 @@
 
 
 ## Resumo
+O TPC2 consistiu no desenvolvimento de um programa em Python para o jogo "Adivinha o número", dividido em duas modalidades: uma em que o computador pensa num número e o utilizador tenta adivinhar através de pistas de maior ou menor, e outra em que o utilizador pensa num número e o computador utiliza a bissecção para o adivinhar de forma eficiente, apresentando no final o número total de tentativas.
+
+
+## Resultados 
