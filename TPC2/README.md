@@ -12,3 +12,4 @@ O TPC2 consistiu no desenvolvimento de um programa em Python para o jogo "Adivin
 
 
 ## Resultados 
+[TPC2.ipynb](https://github.com/user-attachments/files/33673262/TPC2.ipynb)
